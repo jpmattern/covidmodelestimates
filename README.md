@@ -4,5 +4,6 @@ The County of Santa Cruz COVID-19 model is a probabilistic SEIR model with compa
 
 ## data sources:
 
-* Verily wastewater data [Santa Cruz](http://publichealth.verily.com/#Santa%20Cruz%20County,%20CA:SARS-CoV-2) and [Watsonville](https://publichealth.verily.com/cohort/f4b9b07e-c5d4-48d9-9c0e-32028e97fdfa#Watsonville:SARS-CoV-2) plants
+* WastewaterSCAN [wastewater data](https://data.wastewaterscan.org/)
+* CDC NWSS (Verily) [wastewater data](https://www.cdc.gov/nwss/wastewater-surveillance.html)
 * CDPH [hospital data](https://data.chhs.ca.gov/dataset/covid-19-hospital-data)
